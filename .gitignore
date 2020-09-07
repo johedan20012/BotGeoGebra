@@ -1,0 +1,4 @@
+*.png
+config.json
+node_modules
+geogebra

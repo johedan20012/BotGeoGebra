@@ -1,0 +1,6 @@
+{
+    "prefix" : "$",
+    "prefix2" : "%",
+    "token" : "your_discord_bot_token",
+    "DEBUG" : false
+}
